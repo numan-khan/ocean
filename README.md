@@ -1,2 +1,2 @@
 # ocean
-Multi Data Center Store
+Multi Data Center Conflict Free Store
